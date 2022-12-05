@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "mclovin",
+      "email": "bigmac@gmail.com"
+    },
+    {
+      "id": 2,
+      "userName": "thebeatle",
+      "email": "onebeatle@gmail.com"
+    },
+    {
+      "id": 3,
+      "userName": "tigerinthewoods",
+      "email": "15majors@gmail.com"
+    },
+    {
+      "id": 4,
+      "userName": "elonismusky",
+      "email": "mycarcandriveitself@gmial.com"
+    },
+    {
+      "id": 5,
+      "userName": "waveyslayer",
+      "email": "kellyslater@gmail.com"
+    },
+    {
+      "id": 6,
+      "userName": "themosttameantelope",
+      "email": "innerspeaker@gmail.com"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Flume",
+      "countryId": 1,
+      "genreId": 2
+    },
+    {
+      "id": 2,
+      "name": "Tame Impala",
+      "countryId": 1,
+      "genreId": 1
+    },
+    {
+      "id": 3,
+      "name": "Mon Laferte",
+      "countryId": 2,
+      "genreId": 4
+    },
+    {
+      "id": 4,
+      "name": "Gepe",
+      "countryId": 2,
+      "genreId": 3
+    },
+    {
+      "id": 5,
+      "name": "Iri Di",
+      "countryId": 3,
+      "genreId": 5
+    },
+    {
+      "id": 6,
+      "name": "Ethiopian Records",
+      "countryId": 3,
+      "genreId": 6
+    },
+    {
+      "id": 7,
+      "name": "Pirogue",
+      "countryId": 4,
+      "genreId": 7
+    },
+    {
+      "id": 8,
+      "name": "Jacques",
+      "countryId": 4,
+      "genreId": 4
+    },
+    {
+      "id": 9,
+      "name": "Doul",
+      "countryId": 5,
+      "genreId": 4
+    },
+    {
+      "id": 10,
+      "name": "YonYon",
+      "countryId": 5,
+      "genreId": 2
+    },
+    {
+      "id": 11,
+      "name": "Tima Belorusskih",
+      "countryId": 6,
+      "genreId": 4
+    },
+    {
+      "id": 12,
+      "name": "Клава Кока",
+      "countryId": 6,
+      "genreId": 4
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "name": "Australia"
+    },
+    {
+      "id": 2,
+      "name": "Chile"
+    },
+    {
+      "id": 3,
+      "name": "Ethiopia"
+    },
+    {
+      "id": 4,
+      "name": "France"
+    },
+    {
+      "id": 5,
+      "name": "Japan"
+    },
+    {
+      "id": 6,
+      "name": "Russia"
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "name": "Alternative"
+    },
+    {
+      "id": 2,
+      "name": "Electronic"
+    },
+    {
+      "id": 3,
+      "name": "Folk"
+    },
+    {
+      "id": 4,
+      "name": "Pop"
+    },
+    {
+      "id": 5,
+      "name": "Afropop"
+    },
+    {
+      "id": 6,
+      "name": "Ethiopiyawi Electronic"
+    },
+    {
+      "id": 7,
+      "name": "Indie"
+    }
+  ]
+}
