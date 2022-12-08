@@ -27,8 +27,23 @@
     },
     {
       "id": 6,
-      "userName": "themosttameantelope",
+      "userName": "domesticatedantelope",
       "email": "innerspeaker@gmail.com"
+    },
+    {
+      "email": "max@gmail.com",
+      "userName": "max",
+      "id": 7
+    },
+    {
+      "email": "chawaysea@gmail.com",
+      "userName": "chawaysea",
+      "id": 8
+    },
+    {
+      "email": "loganisnumberjuan@gmail.com",
+      "userName": "loganisnumbajuan",
+      "id": 9
     }
   ],
   "artists": [
@@ -36,73 +51,85 @@
       "id": 1,
       "name": "Flume",
       "countryId": 1,
-      "genreId": 2
+      "genreId": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Flume_-_Hi_This_Is_Flume.png"
     },
     {
       "id": 2,
       "name": "Tame Impala",
       "countryId": 1,
-      "genreId": 1
+      "genreId": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tame_Impala_-_Innerspeaker.png"
     },
     {
       "id": 3,
       "name": "Mon Laferte",
       "countryId": 2,
-      "genreId": 4
+      "genreId": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Mon_Laferte_Vol.1.jpg"
     },
     {
       "id": 4,
       "name": "Gepe",
       "countryId": 2,
-      "genreId": 3
+      "genreId": 3,
+      "image": "https://cdns-images.dzcdn.net/images/cover/6608d16e718b9b7dc25edecc8daecfbf/264x264.jpg"
     },
     {
       "id": 5,
       "name": "Iri Di",
       "countryId": 3,
-      "genreId": 5
+      "genreId": 5,
+      "image": "https://cdns-images.dzcdn.net/images/cover/5603e3e0487ec9d06c1bebf884ae8519/264x264.jpg"
     },
     {
       "id": 6,
       "name": "Ethiopian Records",
       "countryId": 3,
-      "genreId": 6
+      "genreId": 6,
+      "image": "https://cdns-images.dzcdn.net/images/cover/79b92fad2cf12c45438f834ee9b6350d/264x264.jpg"
     },
     {
       "id": 7,
       "name": "Pirogue",
       "countryId": 4,
-      "genreId": 7
+      "genreId": 7,
+      "image": "https://cdns-images.dzcdn.net/images/cover/2b8639a8f26d3b3626ebcf4122040584/264x264.jpg"
     },
     {
       "id": 8,
-      "name": "Jacques",
+      "name": "Miel De Montagne",
       "countryId": 4,
-      "genreId": 4
+      "genreId": 4,
+      "image": "https://whatthefrance.org/wp-content/uploads/2019/04/miel-de-montagne-album.jpg"
     },
     {
       "id": 9,
       "name": "Doul",
       "countryId": 5,
-      "genreId": 4
+      "genreId": 4,
+      "image": "https://e-cdn-images.dzcdn.net/images/cover/f847d6f791850684b4a298577bbbfb4d/264x264-000000-80-0-0.jpg"
     },
     {
       "id": 10,
       "name": "YonYon",
       "countryId": 5,
-      "genreId": 2
+      "genreId": 2,
+      "image": "https://e-cdn-images.dzcdn.net/images/cover/0532d21acd3229c56b9efa73306d9ce7/264x264-000000-80-0-0.jpg"
     },
     {
       "id": 11,
       "name": "Tima Belorusskih",
       "countryId": 6,
-      "genreId": 4
+      "genreId": 4,
+      "image": "https://i.scdn.co/image/ab67616d0000b2730aa5f4aad699c51b03bb0cca"
     },
     {
       "id": 12,
       "name": "Клава Кока",
       "countryId": 6,
-      "genreId": 4
+      "genreId": 4,
+      "image": "https://musicboxtv.ru/wp-content/uploads/2019/06/klavakoka-350x350.jpg"
     }
   ],
   "country": [
@@ -159,6 +186,13 @@
     {
       "id": 7,
       "name": "Indie"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "userId": 3,
+      "artistId": 6
     }
   ]
 }
