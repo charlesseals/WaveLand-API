@@ -27,108 +27,389 @@
     },
     {
       "id": 6,
-      "userName": "themosttameantelope",
+      "userName": "domesticatedantelope",
       "email": "innerspeaker@gmail.com"
+    },
+    {
+      "email": "max@gmail.com",
+      "userName": "max",
+      "id": 7
+    },
+    {
+      "email": "chawaysea@gmail.com",
+      "userName": "chawaysea",
+      "id": 8
+    },
+    {
+      "email": "loganisnumbajuan@gmail.com",
+      "userName": "loganisnumbajuan",
+      "id": 9
+    },
+    {
+      "email": "swangthatthang@gmail.com",
+      "userName": "happygilmore",
+      "id": 10
+    },
+    {
+      "email": "htif@gmail.com",
+      "userName": "harleystreten",
+      "id": 11
+    },
+    {
+      "email": "seals@email.com",
+      "userName": "sseals1",
+      "id": 12
+    },
+    {
+      "email": "tom@gmail.com",
+      "userName": "tom",
+      "id": 13
+    },
+    {
+      "email": "ben@gmail.com",
+      "userName": "ben",
+      "id": 14
+    },
+    {
+      "email": "maxAnderson@email.com",
+      "userName": "maxAnderson",
+      "id": 15
+    },
+    {
+      "email": "carolinethebestinstructor@gmail.com",
+      "userName": "thebestinstructor",
+      "id": 16
     }
   ],
   "artists": [
     {
       "id": 1,
       "name": "Flume",
-      "countryId": 1,
-      "genreId": 2
+      "countryId": 4,
+      "genreId": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Flume_-_Hi_This_Is_Flume.png"
     },
     {
       "id": 2,
       "name": "Tame Impala",
-      "countryId": 1,
-      "genreId": 1
+      "countryId": 4,
+      "genreId": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Tame_Impala_-_Innerspeaker.png"
     },
     {
       "id": 3,
       "name": "Mon Laferte",
-      "countryId": 2,
-      "genreId": 4
+      "countryId": 8,
+      "genreId": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Mon_Laferte_Vol.1.jpg"
     },
     {
       "id": 4,
       "name": "Gepe",
-      "countryId": 2,
-      "genreId": 3
+      "countryId": 8,
+      "genreId": 3,
+      "image": "https://cdns-images.dzcdn.net/images/cover/6608d16e718b9b7dc25edecc8daecfbf/264x264.jpg"
     },
     {
       "id": 5,
       "name": "Iri Di",
-      "countryId": 3,
-      "genreId": 5
+      "countryId": 13,
+      "genreId": 5,
+      "image": "https://cdns-images.dzcdn.net/images/cover/5603e3e0487ec9d06c1bebf884ae8519/264x264.jpg"
     },
     {
       "id": 6,
       "name": "Ethiopian Records",
-      "countryId": 3,
-      "genreId": 6
+      "countryId": 13,
+      "genreId": 6,
+      "image": "https://cdns-images.dzcdn.net/images/cover/79b92fad2cf12c45438f834ee9b6350d/264x264.jpg"
     },
     {
       "id": 7,
       "name": "Pirogue",
-      "countryId": 4,
-      "genreId": 7
+      "countryId": 14,
+      "genreId": 7,
+      "image": "https://cdns-images.dzcdn.net/images/cover/2b8639a8f26d3b3626ebcf4122040584/264x264.jpg"
     },
     {
       "id": 8,
-      "name": "Jacques",
-      "countryId": 4,
-      "genreId": 4
+      "name": "Miel De Montagne",
+      "countryId": 14,
+      "genreId": 4,
+      "image": "https://whatthefrance.org/wp-content/uploads/2019/04/miel-de-montagne-album.jpg"
     },
     {
       "id": 9,
       "name": "Doul",
-      "countryId": 5,
-      "genreId": 4
+      "countryId": 23,
+      "genreId": 4,
+      "image": "https://e-cdn-images.dzcdn.net/images/cover/f847d6f791850684b4a298577bbbfb4d/264x264-000000-80-0-0.jpg"
     },
     {
       "id": 10,
       "name": "YonYon",
-      "countryId": 5,
-      "genreId": 2
+      "countryId": 23,
+      "genreId": 2,
+      "image": "https://e-cdn-images.dzcdn.net/images/cover/0532d21acd3229c56b9efa73306d9ce7/264x264-000000-80-0-0.jpg"
     },
     {
       "id": 11,
       "name": "Tima Belorusskih",
-      "countryId": 6,
-      "genreId": 4
+      "countryId": 36,
+      "genreId": 4,
+      "image": "https://i.scdn.co/image/ab67616d0000b2730aa5f4aad699c51b03bb0cca"
     },
     {
       "id": 12,
       "name": "Клава Кока",
+      "countryId": 36,
+      "genreId": 4,
+      "image": "https://musicboxtv.ru/wp-content/uploads/2019/06/klavakoka-350x350.jpg"
+    },
+    {
+      "name": "Bunny Wailer",
+      "image": "https://e.snmc.io/i/1200/s/7a5010d428f56d25cee50feef124c8b6/3302292",
+      "countryId": 22,
+      "genreId": 6,
+      "id": 13
+    },
+    {
+      "name": "Men At Work",
+      "image": "https://images.fanart.tv/fanart/cargo-55761f9621a13.jpg",
+      "countryId": 4,
+      "genreId": 4,
+      "id": 16
+    },
+    {
+      "name": "Peter Gabriel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Peter_Gabriel_%28self-titled_album%2C_1977_-_cover_art%29.jpg",
+      "countryId": 47,
+      "genreId": 4,
+      "id": 17
+    },
+    {
+      "name": "Antonio Carlos Jobim",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhUYGRgaGhocGhwcHBocGhoaGhwaGhgaGhoeIS4lHCErIRoYJjgnKy8xNTU1GiQ7QDs0Py40NTEBDAwMDw8PGhERGDQhISE0NjQxMTE1NDQxNDE/NDQ1NDQxNDE0MTQ0NDQ1ND8xPzQ+MTExNDQ2NDE2NDY9NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAECBAUGB//EAEAQAAIBAgQDBAgDBgMJAAAAAAECAAMRBBIhMQVBUSJhcYEGEzKRobHB8EJS0RQjYnJz4TOSswcVJDSClLLC8f/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACQRAQEAAgAFBQEBAQAAAAAAAAABAhEDEiFBURMUMWGhcUIy/9oADAMBAAIRAxEAPwDz6hWyhrfiUr4A2v8AK3nIMYwiM2wa8UaKA8UUYiA8UUVoDRxEEkskoYR8pjqDLdCmxueyNN2/WWQVqTkHSXFe24Nj7QOoHh0gAR+IA+H9pZbGAqARoOupliGp01LZC247Dcu4GV6tJlNrdroOo385GqludxyMm1c2GupGvf018IAzTbmN/CFw72MDm74ek21/I/Q/d4GujAqCNCDr5yxhaD1HCLa566AdSx5AdZVwdMPoL3tt4a6Gdv6D4VchZhcmod+lNUyj31CfIdJji5XHHcb4erdWbZq+i1893e6qxFkAVsvtgZ2BsDYbSS+iWgIdz2iCMqaAAt+fcgXt3zqsXh67GqFYKr+rCdojJldM5IUg9oFybEE5QLgyT0Ktn1bOaahGz9lWygEMoIBbNdswGxtcTyern5ejWE/y5uh6K9pBnqWZQfZTS42Hbt7yJYwnoySDmNQHS3ZTbzfe4Ok3Wo18jWcFxcr2rKWFZ3AIubAoVXnYacoOvhagFQKzNpS9WS5F8gUMGOcEAkEkgAm51O0nq5+SzHWtM0+jK3tmqXIJ9mnsLA/j7xK1fhFAN6s4kK/JWNLNf+T1mb6zV9Mse9HD1HpmzhGAI3XO9NMw7wCZyuE4Dh2og5FdXS+Y2zklM5LPYlTcjoPH8WseJnZu1zuOPxpHiHDnosA1ipvlYXsbbgg6qw5qdZXVZf4NiTVwFTMSwpuy03b2iqNTyE9+WoV8AvSZ6NPVw8rlOvZxymr0avn8Yo2bxjzex5mI9olkjMCBiAkssQSUNaK0IKcmtONAIWFWjeHWlDCjNaTaoKffDoAOnjaXaOEvsJYThpJtaXQxmog7fKEFHmouOp+U6ehwdbX7ofDcOU8hf4eY5xocgiW9oG3dDJg857CkAbk6k9OU7fD8GS97fUfGXhglUaAL1y8/G0DzLFYcrveVGM7H0mwP4u6330nGSUiSy3SOkq095ophifkfMf2iFWsMCRpe9rj425a8x5zu/RI5qDEDZ6gHYzhWK0iDl6aGcFhqmQAjcdfHSAqVzmfcX13Pj9R7pnPHmx1tccuW7euNRf8AOv8A23u3kvVtcnMLXuB+z7C98t7a6aXnjHrD1MWc9Zw9v9/jp6v09sULlsEynOT/AId7rnJttzFu+QRNDdrm+h9Qotpba2uus8WVpINHt/v8PV+ntOLpU3BRqZyPTdHAW18xS22vI68rTkR6LVUVqSYn9w17h07YU3zLmLKtjvuBe/Ug8SrSavLjwLO/4l4m+zsMbiqNKiuFoEMotna+YGxzWzfiYtqSNNFA2merTHR5bo1Z3xxmM1HO3d26LLFA5h92ilV56ghQkVKnCETMA8scJJ2itKhKJICMFMmp5GUTQyzSMClIwtOmRy+/CUaWBvvbTxmnSfQ7zOwzcx5jnNDDvpeBbRwV3EsUCLwFJNIVKfQQNWnsI5beV0J6yeblCsnjtO9Np5s41M9P4qt6b+BnmNXcyVO56W806Ti2vmPPW0ykbUS0zWJ8fhEKKz6eR+BEEW3PUfWMX08fsyF9JQs0dtJC0kNrSB7yQMhHEAqmTDQKmTEqC3lig5lQQqPA6bMY8Br3xTLbl02j2joNIKq0MkXEkj3gMhkSDAugQiSglUiW6NS8sov4YdOktLT598p4eptNFDsd5UEpC395YpqORt4fGQxFsoO2nWV6DG4uYGvSYjnpLlPN3fe0pUjflL+H2hVlW7pMESIPdGZoVWxy3Rx/CflPM666meoV0ujDqDPNsalnIOjXO+mu4P0hFFd5Zd7gnv8AdAKdZbp0SrWYacwe7UjxkgHSFwe7X9fh8pCHq0sjaHMutu8frAEQHWTAkBJrAa0REcxwJQwkwY6rERCFeEpoTHo0rzSpYfTaBeydximh6sRTDbiDoJAtJqNJBllZDNSMaphEXWRegSezr84UImTRiJbbDAJdiC3y6C8oyDRw9W82cIwtuPOczTcy/h6x25TUqNHEYkG479I+DcEyrUwbgBspt5wPaG0qOqwT6W75r0GA0nnTYqqvssREvEa/538o2r05TGcTgMHicQ9xmf32+J2nQcLxLqxV2Y9L8+W45wbauNfKp1todfrPN+KuC5tceNvpO/8ASA5aOblex8OfhPPEph3ylrDXW1+yATsO4RRVJmlh6hZRc6roO9TpbymeFmjw2nmdUJsG0PhYn6TNsxlt7LMblZJ3BrPceGnu2+GnkIGbS8LDM4Jbs1ETlqGa1zpvBU+Go2QBnBaoyG9rAJe5HO9rfGc/Xxdfb5+GWJITVHC0ObKzWyK4va+pIINu4HaS/wB1LnC5mt6x05bIma/jJ6+C+3z8MqSEPjsOqMMpJBVWF7XswvY20gFnXHKZTccbjcbZeyQMmgvIiWKS6zTK1hUmrTo3EpYZJpodIGnlPU/GKLMe+KZbeeU9pJlg0O0MGiMgMkjl75YaDYQBsYJvCWBT6xvViANEmvwlLuJmgTc4DT7d+UsHZsqrR9kHTQTzXiVV85zGx6Dpyno9cXUDunB8ewxSoxtodbwVj1AbAk7yeDuWsLE9CSL21sD1hkRW0YlR1Avbym/6PYXDI6uWeo4PZUKQoJ2NuZ+EmhPhuIsM2YlVNqiNpUp8s38S38xOl9UDlIH/AMmTxjAZ3Z0QqSpVhpcqdCxHUaadBNfh1NlRFbWygHxGk0KnpRVy4c668pzmCwYTAVa343IQdylgDr32mz6ZVuylP8xLHuAtMfidXJgqdO1s9Qm38KD9WEDCBlvg63qiw2VyPHI1vjKKy5w1WLnK2TsPma17LbtaDnOfF/4v8b4XTPH+ugwwtVqA86lM+eTN8xKeEHapf16siiVc9QesF6YRr5R2sqnJ4aSCUnyK4qC4IcDLtnbKTfnry2nhmM8zrqfj6FyvaXpbf1dw3Lvo01/zOy/WIe2P61X/AEzAJSd3cGoAQypfLoSCWUAD2RcbyDJUyes9Z2gTUy5RuT6sm+3lHLN3rOvQ57yzpenVT4nun9Kn8pThq1RnbMxudBsBoNtBGCT34Y3HGSvnZ5TLK2IodZapQAWEQzbDUoPp5y4jzJSrLFOpA6j1cUJ+0L0PujzG23manQSYMGsnLGRBImIGItKEZAyLvHAkEl3nVej1C5uPu05elO29HEsl+co2H1PwgOI8NSouo1G0KzCSeppvCuMxHAMraGwO337pscG4aVGrD3TWrKGEjhlsZUXkpgC3vjWj+sgWeRWbjeDtVrq7FcgAFuZ12tOQ9IsatWtZP8OmMid4HtN5n4ATrfSHiBoYbJf95UuB/Cp9tvIGw7zOBVJURCy9wsdp/wCnU+UqWh8LWKNcAG4KkHYhtDec88bcbI1w7JlLWvwyiyl1fUkopNyd0cjU+I3iS3qF65EueVvWfPvk6ZrBnIyAh7kXYZiqewOoy69dIDI+RQMlmFNRvcBnzKT59LzxWW3ds+Y+hLMZqS/FW6H+I/8AXX5NK7DNSNwylU0IIswz7Efe0QqVFbPlT94+W1jYVFJXN84J67qDTOXS6kje2bNa/S/dN44W5TWu34xnxJMbvff9U1SEVIhCAz3Pnh+rkHSWbxmWBVEmjmTZIMrA6D1nj8Y8Dr0MUw05RBJ2kVk5YhoN2hIzJAEm8OAIJkkBeFWkXWdxwLSl3zg6Tzr+FY5Eogu4Uba8z3SoucdrFKLMDrcfEyrwrimcANv8JHjuJV8MShzAsu2uxuZzXD65VwQeco9BpGGenfaZ+Dq3AN5fRuUKVpWxfFqVEEu2Z+SLq3n+XxMXEcYtKmzncaKOrH2R98rzgHcklibkkknqTvCLHFMe9dy76clUbKo2H95TklhAghAssLh6RJ0F7DMfAbmK0sYJyraIXzKVyi9ze21r9JnPfLeX5bw5eabuo2Ldtv6j/wCkYNQMiW3/AOHv0tc2t159BK4xT9pvVk3cm9msrFcmU6anu01kExbEBVpklfV3tck+rNx2baa/OeL0c/Hh7vX4fXr5XUXsj+GpUf8Ays36iZ2Pq9t1yj2yc34vC/SE/aXs37trD1mY2ay+sYNZtNLWtr1jV6bvm/cuGLZycrkhSNBttoTfxnThcLLHLeUcuNxccsNY3r0VQ0a8lUoOntIy3/MCPdfeQaet4xEaEvAIYSnANbSRySanSPlgaOTvij3imWnILCM0Gp+f1jvEQ4j5oMvHVhAkTJ4egXYAczaD06zY9H1U1QCR1lE8ZR9Q9NVtci7He9zOuo0kYK2VdtNB9ic36Q0M9ZMovy8rzosOCqgW0hRmw6MpUgWInC4rh7U6hUjS916WndesHKU8bQD2bmNPG8qVV4Z7AmvTEoYSnbYSPHuI/s9EsPbbs0x382PcBr7oHO+lHFlerkB7NPTuL/iPlt75khgdjM0wlOZ2NVEtJLKtKq1t7wqYkA6iaRaCaQmHdQHUkrnTKCNbdpW1HQhSp8fKDp1Aw7JvBNA06PEEV0cu7erXIQV1YdrX2rW1vY69n3LD8SQZ+ySaiNnuNGqWCrsQbe2xIsb1D0ExniQxo22Uxyk03YkGmpUIouGFzYXLaXBCte+i89gV8VSZGUm7M+cko2UmzC+UP2WJa5I7O2mmuMpk7xoXuIYxXzZRb9476DcNaxbU9rSZ7RyYzGA6GEDSuDJq0CyDLFPaU6ZvL1JIGjlihMsaRpw4+pkwZEEHaTAmYIsLwTU4WKVAQsPTptuPnFlhabQNGhjKxsO2SNL2BNvGa+Gq4pFuULqTsSM3zmRw+uytdW8dN+c6fBsxAuSe7YTQrYjjCqhZkdTe1ip08SNJPA49ai3Xw75qFAVytYg7jlaZqYVUICgAQNCgo3JsALk8gBqTPPvSHin7RVLD2F7NMfw39rxO/unZ8fw7Pha2RiCgBYDmgPaB8tZ5xM1StCIIyiFpiID0xpIVRDW0gHM0yBcjY2h0xbc9fnAExplV9XDagyeSZgPSWqOK5N75dmloRy0cEbiOJUREcyWWStAGRIiGtIlYE8PvNKnM+gJoIdIGlm+9YpPToPcf1jzLTgqa6QiGOlPQai/S4vI1EKnUWkgmwjBIytCqZUTpU7wowT7hbiKgLG4m/gKoNr85RjYXDsGFwRr0nU4ViBLTUQeUmiAbShX0lPiGNSiBexdvYX/2PQCNxriy4dNruR2R07z96zlcAXqOarsWZvlyAHId0g7b0ZOcOr6hwQ3ffQ6eBnmvEsGaVV6R3RyvlyPutPRfRxrP3Tn/APaPgsmJWoNqia/zJofhlkquTSGpwSwqxEGJgXMlmgnlEGkY7SIkVK8eREUgsYatlPdLubmJliWsPU5TUqLqtCK8rrCLKgwMZjEsZoBaUtq0p0hLCwNPToPeI8hfxikacxW4c4QPbskX98jhainsP7J0B5oeR8O6a/DPSZVw70ayZiEYU2AG+oUP4dROeHKZhR62FZGKHRgde/oR4j5yCsRuJu4ZP2miAuteiu3N6XK3Vlv7pkuJUSSvYay5wvFdq5MzSs2eEcHD9osQO4/qJR0uHrXtrI8Q4ktJCx1J9kdTJ08NTpIWY9lRe7H6bTj8S74qoSoNibeA5DxhVVmfEVCWN9bsfoJ0GFoZQABGSjSw6gO6qentOf8ApGvvk0xrvpRUqPzEA1D3jknzliNTCV0oHNUcL3Xux8FGvwg/S/GUcThWKMc9Iq4uCpykhWtfxHumBWSmhJq1Rm5qvbqE9+tgfE3mZjuIl1yIuRL3IvdmI2zHp3D4yUUFhFMgsmIEoN4W0C0CJkY5iMimiiikCkgYhERKNLDNde8SbGVME2tpdyzUZJSZJVuY6iGprAnTQyZhVWRZYF3XoPjFJffKKRpwy/Uy1hgG0JtKo+p+cJTOomIVrYfBVUIqU2sVNwynUTUwwp4wlXApYi3tC2RyPzLybwmRhuL1UBVW06WvNLgvAHr/AL5zkQk5T+JrbkDp3zQo0sAS5QEZgbEa37503CsAyJqCOf31m4iKlIBAb25EXblcmSouWFyLdRe9pTTFqcNfEupclKA1yXsznq3Qd0ucXejhqBCqq6WUAa++Xa2ICKXI0HIc5w3HMS9Zi76DkOggYmHxCB2dwT0A63hcTxl3XIv7tOYXdv5m3PhtKFTeDmdiQEIJBZMRBIQggxJCVEzBtJ3g2MojaMRHvGYyKiTFEY0gmse0ZZK0qC0jbWaFE3AlBRLmBIsZqCyqSwiwSiFSEWlWRZY6STLAsX+9f0jx/v71ihpwY/X5yV5Ffv3yT20tyGvedz87eU5wFDX909iw+GX1NILoopoAO4qJ41TPxnqnodxEVcMqE9umMhF9bD2T7tPIykWqq5duUr1Kgt4mX8WmhnNVapNX+FBt3mahV/jNYLTF559xLHZtFm5xbiPrez+EaePWc3XQAxUVI0k0a0wp1EksSyQEocSaxKkmomkReAYw7iAaShrxMYhE0KaIRWkgJAlhQJBRCqJqIcyxgG7VusqtCYZrMp74G0ghFESiTUSoMg0kmkU2kkW8A2Yx4svj7ooVw3Xz+cc/fwiinNSp7+c7T/Z3/wAw/wDIf/IRRSjtMb7J8DOLx29T75RRSwrm29nzH1larFFLUVjGEaKZUSSEUUoKsmv6xRSoG0CYopFRaOY8UBoljxQJrCRRSog0knLyiigdEmw8RJ/rFFKgg+v1haO333xRQLMUUUK//9k=",
       "countryId": 6,
-      "genreId": 4
+      "genreId": 9,
+      "id": 18
+    },
+    {
+      "name": "Tom Misch",
+      "image": "https://media.pitchfork.com/photos/5ea205f03577a40009ece414/1:1/w_600/What%20Kinda%20Music_Tom%20Misch%20and%20Yussef%20Dayes.jpg",
+      "countryId": 47,
+      "genreId": 4,
+      "id": 19
     }
   ],
-  "country": [
+  "countries": [
     {
       "id": 1,
-      "name": "Australia"
+      "name": "Afghanistan"
     },
     {
       "id": 2,
-      "name": "Chile"
+      "name": "Algeria"
     },
     {
       "id": 3,
-      "name": "Ethiopia"
+      "name": "Angola"
     },
     {
       "id": 4,
-      "name": "France"
+      "name": "Australia"
     },
     {
       "id": 5,
-      "name": "Japan"
+      "name": "Bangladesh"
     },
     {
       "id": 6,
+      "name": "Brazil"
+    },
+    {
+      "id": 7,
+      "name": "Canada"
+    },
+    {
+      "id": 8,
+      "name": "Chile"
+    },
+    {
+      "id": 9,
+      "name": "China"
+    },
+    {
+      "id": 10,
+      "name": "Colombia"
+    },
+    {
+      "id": 11,
+      "name": "DR Congo"
+    },
+    {
+      "id": 12,
+      "name": "Egypt"
+    },
+    {
+      "id": 13,
+      "name": "Ethiopia"
+    },
+    {
+      "id": 14,
+      "name": "France"
+    },
+    {
+      "id": 15,
+      "name": "Germany"
+    },
+    {
+      "id": 16,
+      "name": "Ghana"
+    },
+    {
+      "id": 17,
+      "name": "India"
+    },
+    {
+      "id": 18,
+      "name": "Indonesia"
+    },
+    {
+      "id": 19,
+      "name": "Iran"
+    },
+    {
+      "id": 20,
+      "name": "Iraq"
+    },
+    {
+      "id": 21,
+      "name": "Italy"
+    },
+    {
+      "id": 22,
+      "name": "Jamaica"
+    },
+    {
+      "id": 23,
+      "name": "Japan"
+    },
+    {
+      "id": 24,
+      "name": "Kenya"
+    },
+    {
+      "id": 25,
+      "name": "Malaysia"
+    },
+    {
+      "id": 26,
+      "name": "Mexico"
+    },
+    {
+      "id": 27,
+      "name": "Morocco"
+    },
+    {
+      "id": 28,
+      "name": "Mozambique"
+    },
+    {
+      "id": 29,
+      "name": "Myanmar"
+    },
+    {
+      "id": 30,
+      "name": "Nepal"
+    },
+    {
+      "id": 31,
+      "name": "Nigeria"
+    },
+    {
+      "id": 32,
+      "name": "Pakistan"
+    },
+    {
+      "id": 33,
+      "name": "Peru"
+    },
+    {
+      "id": 34,
+      "name": "Philippines"
+    },
+    {
+      "id": 35,
+      "name": "Poland"
+    },
+    {
+      "id": 36,
       "name": "Russia"
+    },
+    {
+      "id": 37,
+      "name": "Saudi Arabia"
+    },
+    {
+      "id": 38,
+      "name": "South Africa"
+    },
+    {
+      "id": 39,
+      "name": "South Korea"
+    },
+    {
+      "id": 40,
+      "name": "Spain"
+    },
+    {
+      "id": 41,
+      "name": "Sudan"
+    },
+    {
+      "id": 42,
+      "name": "Tanzania"
+    },
+    {
+      "id": 43,
+      "name": "Thailand"
+    },
+    {
+      "id": 44,
+      "name": "Turkey"
+    },
+    {
+      "id": 45,
+      "name": "Uganda"
+    },
+    {
+      "id": 46,
+      "name": "Ukraine"
+    },
+    {
+      "id": 47,
+      "name": "United Kingdom"
+    },
+    {
+      "id": 48,
+      "name": "United States"
+    },
+    {
+      "id": 49,
+      "name": "Uzbekistan"
+    },
+    {
+      "id": 50,
+      "name": "Venezuela"
+    },
+    {
+      "id": 51,
+      "name": "Vietnam"
+    },
+    {
+      "id": 52,
+      "name": "Yemen"
     }
   ],
   "genre": [
@@ -159,6 +440,181 @@
     {
       "id": 7,
       "name": "Indie"
+    },
+    {
+      "id": 8,
+      "name": "Rap"
+    },
+    {
+      "id": 9,
+      "name": "Bossa"
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 13,
+      "artistId": 1,
+      "id": 1
+    },
+    {
+      "userId": 13,
+      "artistId": 12,
+      "id": 2
+    },
+    {
+      "userId": 13,
+      "artistId": 9,
+      "id": 3
+    },
+    {
+      "userId": 12,
+      "artistId": 13,
+      "id": 4
+    },
+    {
+      "userId": 12,
+      "artistId": 16,
+      "id": 5
+    },
+    {
+      "userId": 13,
+      "artistId": 2,
+      "id": 6
+    },
+    {
+      "userId": 13,
+      "artistId": 3,
+      "id": 7
+    },
+    {
+      "userId": 13,
+      "artistId": 4,
+      "id": 8
+    },
+    {
+      "userId": 13,
+      "artistId": 5,
+      "id": 9
+    },
+    {
+      "userId": 13,
+      "artistId": 6,
+      "id": 10
+    },
+    {
+      "userId": 13,
+      "artistId": 7,
+      "id": 11
+    },
+    {
+      "userId": 13,
+      "artistId": 8,
+      "id": 12
+    },
+    {
+      "userId": 13,
+      "artistId": 11,
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "artistId": 10,
+      "id": 14
+    },
+    {
+      "userId": 13,
+      "artistId": 17,
+      "id": 15
+    },
+    {
+      "userId": 14,
+      "artistId": 1,
+      "id": 16
+    },
+    {
+      "userId": 14,
+      "artistId": 3,
+      "id": 17
+    },
+    {
+      "userId": 14,
+      "artistId": 4,
+      "id": 18
+    },
+    {
+      "userId": 12,
+      "artistId": 12,
+      "id": 19
+    },
+    {
+      "userId": 12,
+      "artistId": 8,
+      "id": 20
+    },
+    {
+      "userId": 12,
+      "artistId": 9,
+      "id": 21
+    },
+    {
+      "userId": 12,
+      "artistId": 4,
+      "id": 22
+    },
+    {
+      "userId": 12,
+      "artistId": 3,
+      "id": 23
+    },
+    {
+      "userId": 12,
+      "artistId": 1,
+      "id": 24
+    },
+    {
+      "userId": 15,
+      "artistId": 16,
+      "id": 25
+    },
+    {
+      "userId": 15,
+      "artistId": 12,
+      "id": 26
+    },
+    {
+      "userId": 15,
+      "artistId": 1,
+      "id": 28
+    },
+    {
+      "userId": 15,
+      "artistId": 18,
+      "id": 29
+    },
+    {
+      "userId": 16,
+      "artistId": 2,
+      "id": 30
+    },
+    {
+      "userId": 16,
+      "artistId": 6,
+      "id": 32
+    },
+    {
+      "userId": 16,
+      "artistId": 8,
+      "id": 33
+    },
+    {
+      "userId": 16,
+      "artistId": 19,
+      "id": 34
+    },
+    {
+      "userId": 16,
+      "artistId": 17,
+      "id": 35
     }
   ]
 }
